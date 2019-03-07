@@ -1,13 +1,9 @@
 ---
 id: '409'
 title: Free Anime!
-date: 2009-07-08T17:17:12+00:00
 author: docwhat
 template: post
-guid: http://docwhat.org/?p=409
 slug: /free-anime/
-categories:
-    - docwhat
 tags:
     - anime
     - cool
